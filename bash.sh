@@ -1,4 +1,4 @@
-#!/bin/bash
+
 SOURCE_DIRS="/c/Users/User/Desktop/django-weather"
 BACKUP_DIR="/c/Users/User/Desktop/django-weather/saikumar"
 
